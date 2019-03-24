@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/projects/precache-manifest.d5ccf205e65a8c9ef3ef6537718a7239.js"
+  "/xm_list/precache-manifest.bb9671b00df56d5179162fc648c62666.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "interface-debug"});
